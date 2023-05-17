@@ -1,0 +1,49 @@
+-----------------------------------------------------------Main
+----------------------------------------------Header 2fr
+---------------------------------H1 Trae
+---------------------------------Aside APi 
+----------------------------------------------Section Auto
+---------------------------------Article Bio 
+---------------------------------Menu 
+-------------------------Navs 4divs
+-------------------------Navs 4divs
+----------------------------------------------Section2 Auto
+---------------------------------Article API 
+---------------------------------Article Why I chose 
+----------------------------------------------Footer 1fr
+
+Trae Zeeofor - API Link
+
+Bio (h1jobtitle, h2koko, h3projects)
+
+- Projects 1-4
+- Projects 5-8
+
+©2023 Designed by Trae Zeeofor (Link)
+----------------------------------------------
+Trae Zeeofor - API Link
+
+Bucket List API display
+
+Why I chose API, in Tech to fullfil bucket list
+https://api-ninjas.com/api/bucketlist
+
+©2023 Designed by Trae Zeeofor (Link)
+----------------------------------------------
+Three innovative bucket list ideas for every type of person!
+
+Click for fresh ideas
+
+Why I chose this specific API?
+
+Getting my foot firmly into Tech, making money and then ticking items off my bucket list is one of my greatest life dreams.
+...Hence I chose this API, to motivate myself and visitors. 
+Have fun with it!
+
+ strong
+ h6
+ button
+
+b 
+small
+

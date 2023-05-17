@@ -1,0 +1,5 @@
+This project was done as Co.Lab Software Development Assessment (Co.Lab is a remote team building bootcamp for web developers. It's a Chingu alternative). The suggestion was to spend no more than 4-5 hours completing this but it took me under 72 hours. Could probably have done it in 2 days, if I sacrificed my Gym time.
+
+anyway my most complete project. 3rd react router one, a full fledged website. And this time fully responsive. Ok to view from any type of device (desktop, phone, tablet etc).
+
+It's more or less a mini-portfolio project. 
