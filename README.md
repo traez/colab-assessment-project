@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# joincolab.io - Co.Lab Software Development Assessment 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a solution to the [Co.Lab Software Development Assessment from joincolab.io](https://joincolab.notion.site/Co-Lab-Software-Development-Assessment-5f40f7454a704d19bb20cc9c5fbf55f4). Co.Lab gives people from all walks of life real-world, practical experience to confidently break into (and thrive within) the tech industry. They want to spark action, enable folks learn by doing, and celebrate achievements as a true collective. 
 
-## Available Scripts
+## Table of contents
 
-In the project directory, you can run:
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-### `npm start`
+## Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### The challenge/User Stories
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Project Description: The objective of this project is to Create and deploy a simple web application that follows the following requirements:  
 
-### `npm test`
+-  Your web app must include a short bio about you and your professional history.
+-  Your web app should display a few of your side projects or professional projects and should include a link to access the projects.  
+-  Your web app should make an API call to display 3-5 pieces of data you retrieve from the API service. You are welcome to choose whatever API you’d like to use.  
+-  Include a section to explain why you chose the specific API you used in your project. 
+-  Your web app should be designed using brand colours from the Co.Lab site. Please reference our website and see how we structure information and how buttons and links are designed. 
+-  Your web app must be mobile-responsive. 
+-  Lastly, you must also deploy and host your web app using any service of your choice. (e.g. Netlify, Vercel, etc.) 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Screenshot
 
-### `npm run build`
+![](/public/images/screenshot-desktop.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Links
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Solution URL: [https://github.com/traez/colab-assessment-project](https://github.com/traez/colab-assessment-project)
+- Live Site URL: [https://traez.github.io/colab-assessment-project](https://traez.github.io/colab-assessment-project)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## My process
 
-### `npm run eject`
+### Built with
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- Vanilla JavaScript
+- [React](https://reactjs.org/) - JS library
+- React Router 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### What I learned
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. This project was done as Co.Lab Software Development Assessment (Co.Lab is a remote team building Bootcamp for web developers. It's a Chingu alternative). The suggestion was to spend no more than 4-5 hours completing this, but it took me under 72 hours. Could probably have done it in 2 days, if I sacrificed my Gym time.  
+2. This project was my third attempt using React Router, and my most complete project to date. It's a full fledged mini website (WebDeveloper port-folio), and it's fully responsive. That means, ok to view from any type of device (desktop, phone, tablet etc).  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Continued development
 
-## Learn More
+Next.js, freelance, open source contributions, collaborative work.  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Useful resources
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Stackoverflow  
+MDN Web Docs  
+W3schools  
+YouTube  
+Google  
+ChatGPT  
+Google Bard   
 
-### Code Splitting
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Website - [Trae Zeeofor](https://github.com/traez)  
+- Twitter - [@trae_z](https://twitter.com/trae_z) 
 
-### Analyzing the Bundle Size
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Adora Nwodo](https://adoranwodo.com/) thanks for all you do. [Philip Adewole](https://adedotxn-colab.vercel.app/) Was very helpful with conceptualization. Gracias!
