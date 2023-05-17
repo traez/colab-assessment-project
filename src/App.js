@@ -9,7 +9,7 @@ import RootLayout from './RootLayout'
 import SectionHome from './SectionHome'
 import SectionApi from './SectionApi'
 
-const router = createBrowserRouter(
+const router = createHashRouter(
   createRoutesFromElements(
     <Route path="/" element={<RootLayout />}>
       <Route index element={<SectionHome />} />
